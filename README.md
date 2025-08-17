@@ -1,20 +1,20 @@
 # 👋 Salut, je suis Bakou Touré
 
-💻 **Développeur Full-Stack** passionné par la création d’applications web modernes, robustes et scalables.  
-Je m’intéresse à l’architecture logicielle, aux bonnes pratiques de code, et au déploiement de solutions performantes.
+💻 **Étudiants développeur Full-Stack** Mon kiff : transformer des idées en applis utiles, performantes et prêtes à scaler. ⚡
 
 ---
 
 ## 🚀 Stack technique
 
 ### Front-end
+- 🅰️ Angular
 - ⚛️ React / Next.js  
-- 🎨 Tailwind CSS, Styled Components  
+- 🎨 Tailwind CSS 
 - 🧩 TypeScript  
 
 ### Back-end
-- 🟢 Node.js / Express  
-- 🗄️ Bases de données : MongoDB, PostgreSQL, MySQL  
+- 🟢 Java / Spring  
+- 🗄️ Bases de données : MariaDB, PostgreSQL, MySQL  
 - 🔐 Authentification, API REST & GraphQL  
 
 ### Outils & DevOps
