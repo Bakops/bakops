@@ -25,10 +25,10 @@
 ---
 
 ## 📊 Statistiques GitHub
-
+<div align="center">
 ![Stats](https://github-readme-stats.vercel.app/api?username=Bakops&show_icons=true&theme=radical)  
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakops&layout=compact&theme=radical)
-
+<div/>
 ---
 
 ## 📬 Me contacter
