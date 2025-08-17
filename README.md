@@ -26,13 +26,13 @@ Je m’intéresse à l’architecture logicielle, aux bonnes pratiques de code, 
 
 ## 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical)  
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Bakops&show_icons=true&theme=radical)  
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakops&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Me contacter
 
-- 📧 [Email](mailto:ton.email@example.com)  
-- 💼 [LinkedIn](#)  
+- 📧 [Email](mailto:bakoutoure4@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/toure-bakou-a2b05921a/?trk=guest_homepage-basic_google-one-tap-submit)  
 - 🌐 [Portfolio](https://bakoutoure.vercel.app)  
